@@ -26,11 +26,11 @@ Superior en Desarrollo de Aplicaciones Web** y actualmente estoy matriculado com
 
 | Frontend | Backend | Herramientas |
 | -------------------- | ------------------------ | ------------------------ |
-| ![NextJS](assets/icons/nextjs_icon_dark.svg) | ![NodeJS](assets\icons\nodejs.svg) | ![Cloudinary](assets\icons\cloudinary.svg) |
-| ![ReactJS](assets\icons\react.svg) | ![ExpressJS](assets\icons\expressjs.svg) | ![Resend](assets\icons\resend-icon-black.svg) |
-| ![TailwindCSS](assets\icons\tailwindcss.svg) | ![PostgreSQL](assets\icons\postgresql.svg) | ![Vercel](assets\icons\Vercel_light.svg) |
-| ![TypeScript](assets\icons\typescript.svg) | ![TypeScript](assets\icons\typescript.svg) | ![Git](assets\icons\git.svg) |
-![Shadcn UI](assets\icons\shadcn\ui_light.svg) | ![Supabase](assets\icons\supabase.svg)
+| ![NextJS](assets/icons/nextjs_icon_dark.svg) | ![NodeJS](assets/icons/nodejs.svg) | ![Cloudinary](assets/icons/cloudinary.svg) |
+| ![ReactJS](assets/icons/react.svg) | ![ExpressJS](assets/icons/expressjs.svg) | ![Resend](assets/icons/resend-icon-black.svg) |
+| ![TailwindCSS](assets/icons/tailwindcss.svg) | ![PostgreSQL](assets/icons/postgresql.svg) | ![Vercel](assets/icons/Vercel_light.svg) |
+| ![TypeScript](assets/icons/typescript.svg) | ![TypeScript](assets/icons/typescript.svg) | ![Git](assets/icons/git.svg) |
+![Shadcn UI](assets/icons/shadcn/ui_light.svg) | ![Supabase](assets/icons/supabase.svg)
 
 ## Top Lenguajes en Mis Repositorios
 
