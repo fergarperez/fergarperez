@@ -41,7 +41,7 @@ proyectos de GitHub. ¡Echa un vistazo y descubre más sobre mis habilidades de
 programación!
 
 [![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocru&layout=compact&langs_count=10&hide_title=true)](https://github.com/pablocru?tab=repositories)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fergarperez&layout=compact&langs_count=10&hide_title=true)](https://github.com/fergarperez?tab=repositories)
 
 ## ¡Hablemos
 
