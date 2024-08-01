@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **fergarperez/fergarperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,16 +20,17 @@ Here are some ideas to get you started:
 ¡Bienvenido a mi perfil de Github! Soy un **desarrollador web** especializado en 
 la parte de **Full-Stack development.** Acabo de términar mis estudios como **Técnico
 Superior en Desarrollo de Aplicaciones Web** y actualmente estoy matriculado como
-**Ingeniero Informático** en la *Universidad Politécnica de Valencia*
+**Ingeniero Informático** en la ***Universidad Politécnica de Valencia***
 
 ## Mi Stack de Programación
 
 | Frontend | Backend | Herramientas |
 | -------------------- | ------------------------ | ------------------------ |
-| React.js  | Marketing Digital | |
-| Desarrollo de aplicacions con Java | Posicionamiento Web (SEO) | |
-| Control de versiones con Git | Marketing de Contenidos | |
-| Contenedores Docker | Creación de contenido Online | |
+| ![NextJS](assets\icons\nextjs_icon_dark.svg) | ![NodeJS](assets\icons\nodejs.svg) | ![Cloudinary](assets\icons\cloudinary.svg) |
+| ![ReactJS](assets\icons\react.svg) | ![ExpressJS](assets\icons\expressjs.svg) | ![Resend](assets\icons\resend-icon-black.svg) |
+| ![TailwindCSS](assets\icons\tailwindcss.svg) | ![PostgreSQL](assets\icons\postgresql.svg) | ![Vercel](assets\icons\Vercel_light.svg) |
+| ![TypeScript](assets\icons\typescript.svg) | ![TypeScript](assets\icons\typescript.svg) | ![Git](assets\icons\git.svg) |
+![Shadcn UI](assets\icons\shadcn\ui_light.svg) | ![Supabase](assets\icons\supabase.svg)
 
 ## Top Lenguajes en Mis Repositorios
 
@@ -43,6 +42,8 @@ programación!
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fergarperez&layout=compact&langs_count=10&hide_title=true)](https://github.com/fergarperez?tab=repositories)
 
+[![Fergarperez's GitHub stats](https://github-readme-stats.vercel.app/api?username=fergarperez)](https://github.com/fergarperez/)
+
 ## ¡Hablemos
 
 Si quieres conocer más sobre mi experiencia y habilidades, te invito a visitar
@@ -50,4 +51,4 @@ mi perfil de [LinkedIn](https://www.linkedin.com/in/fernando-garfella/). ¡No du
 en ponerte en contacto conmigo si te interesa que trabajemos juntos en algún
 proyecto emocionante!
 
-¡Gracias por visitar mi perfil! ¡Hablemos pronto! 🚀
+¡Gracias por visitar mi perfil! ¡Hablemos pronto! 🚀 
